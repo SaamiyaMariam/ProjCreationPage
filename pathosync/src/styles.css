@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    margin: 20px 0;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+.carousel {
+    display: flex;
+    overflow-x: auto;
+}
+
+.carousel img {
+    margin-right: 10px;
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+.project {
+    margin-bottom: 20px;
+}
